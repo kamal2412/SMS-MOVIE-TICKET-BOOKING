@@ -211,7 +211,7 @@ if(showflag==0)
     <?php 
 	
 $connect=mysql_connect("localhost","root","") or die(" couldnt connect");mysql_select_db("database") or die("cudnt connect xampp");
-//mysql_connect("localhost","579716_bycinco","namaknamak");mysql_select_db("bycinco_99k_database");
+
 function cleanme($v)
 {
 $v = mysql_real_escape_string($v);
