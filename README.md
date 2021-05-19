@@ -1,3 +1,3 @@
 # SMS-Based-Movie-Ticket-Booking-Prototype
-SMS Based Movie Ticket Booking Prototype using PHP,MySQL,AJAX.
+SMS Based Movie Ticket Booking Prototype- HTML,PHP,MySQL,JavaScript,SMS Gateway.
 **Developed on the year 2011**
